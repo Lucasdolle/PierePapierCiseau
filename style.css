@@ -1,0 +1,108 @@
+#mainpage
+{
+    background-image: url("images/fond.jpeg");
+    background-size: 200px;
+    background-repeat: reprat;
+}
+
+body
+{
+    background-color: ivory;
+}
+
+header
+{
+    margin-bottom: 20px;
+}
+
+header a
+{
+    background-color: #404040;
+    color: white
+}
+
+.select
+{
+    border: 2px crimson solid;
+}
+
+button
+{
+    background-color: #404040;
+    color: white 
+}
+
+button:hover
+{
+    background-color: #606060;
+    color: white 
+}
+
+button.green
+{
+    background-color: darkgreen;
+    color: white 
+}
+
+button:hover.green
+{
+    background-color: green;
+    color: white 
+}
+
+button.red
+{
+    background-color: darkred;
+    color: white 
+}
+
+button:hover.red
+{
+    background-color: red;
+    color: white 
+}
+button.grey
+{
+    background-color: #808080;
+    color: white 
+}
+
+button:hover.grey
+{
+    background-color: #a0a0a0;
+    color: white 
+}
+
+#gagnant {
+    color: green;
+}
+
+#perdant {
+    color: darkred;
+}
+
+div {
+    box-align: center;
+    text-align: center;
+}
+
+table{ 
+    margin:auto; 
+}
+
+#clair{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+}
+
+header
+{
+    text-align: center;
+}
+
+header a
+{
+    padding: 3px;
+}
